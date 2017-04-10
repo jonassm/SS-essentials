@@ -1,6 +1,6 @@
 name: SS-Essentials
 main: simplesurvival.essentials.main
-version: 1.0-build002
+version: 1.0-build003
 commands:
   discord:
     description: This sends the discord link
