@@ -1,0 +1,19 @@
+name: SS-Feedback
+main: simplesurvival.essentials.main
+version: 1.0
+commands:
+  discord:
+    description: This sends the discord link
+    usage: /discord
+  map:
+    description: This sends dynmap link
+    usage: /map
+  ranks:
+    description: Sends ranks info
+    usage: /ranks
+  changelog:
+    description: Sends changelog blog link
+    usage: /changelog
+  forum:
+    description: Sends forum link
+    usage: /forum
